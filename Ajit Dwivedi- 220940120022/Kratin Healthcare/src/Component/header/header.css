@@ -1,0 +1,42 @@
+.header{
+    background-color:rgb(2, 52, 92);
+    color: white;
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+
+.headerContainer{
+    width: 100%;
+    max-width: 1200px;
+    margin: 20px 0px 50px 0px;
+}
+
+.headerContainer.listMode{
+    margin: 20px 0px 0px 0px;
+}
+
+.headerDesc{
+    margin: 20px 0px;
+}
+
+.headerSearch{
+    height: 30px;
+    background-color: white;
+    border: 3px solid rgb(246, 230, 7);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 10px 0px;
+    border-radius: 5px;
+    position: absolute;
+    bottom: -25px;
+    color: black;
+    width: 50%;
+    max-width: 1200px;
+    margin-left:200px;
+}
+
+
+
+

@@ -1,0 +1,121 @@
+/* .login {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .lContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .lInput{
+    height: 30px;
+    padding: 10px;
+  }
+  
+  .lButton {
+    border: none;
+    padding: 10px 20px;
+    background-color: #0071c2;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .lButton:disabled{
+    background-color: #0071c28c;
+    cursor: not-allowed;
+  }
+
+  .table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  .td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  .tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+
+  .table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+
+.th {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+    background-color: #f2f2f2;
+}
+
+.td{
+  border: 1px solid black;
+  padding: 8px;
+  text-align: center;
+
+}
+
+th {
+   
+}
+
+.thhead[colspan="3"] {
+    background-color: #ccc;
+}
+
+td.food, td.medicine {
+    text-align: left;
+}
+
+td.breakfast, td.lunch, td.dinner {
+    text-align: center;
+} */
+
+  
+
+
+
+   
+        .table {
+            border-collapse: separate;
+            width: 50%;
+        }
+
+        .th{
+            border: 1px solid black;
+            padding: 8px;
+            text-align: center;
+        }
+
+        .td{
+
+          border: 1px solid black;
+            padding: 8px;
+            text-align: center;
+
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+
+        .exercise {
+            text-align: left;
+        }
+
+        .time {
+            font-weight: bold;
+        }
+    
